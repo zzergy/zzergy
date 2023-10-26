@@ -1,12 +1,14 @@
-# :space_invader: Hi there 😄 :space_invader:
+# :space_invader: Hey there 👋 :space_invader:
 It seems that you have stumbled on my profile page  :octocat: (thank you for that...:sweat_smile:)
 
 My name is Bogdana and im located in :round_pushpin: Burgas, Bulgaria
 
 ### A little about me..
-  I've recently graduated University in Software Engineering in Burgas Free University. 
-  
-  Currently I'm searching for job oportunities or internships in the Front-end field! :tada::tada::tada:
+  I am a Junior Frontend Software Developer with 3 years of experience
+  I love drawing, music and all things creative like coding! :computer:
+
+  Currently I'm searching for remote job oportunities in the Front-end field! :tada::tada::tada:
+
 ### :computer: Programing languages that I know
  - React 
  - JavaSript
@@ -15,17 +17,20 @@ My name is Bogdana and im located in :round_pushpin: Burgas, Bulgaria
  - CSS3
  - SASS
  - SCSS
+ - Jest
 
 ### 🌱 Neat libraries that I'm using 
+- Axios
+- React Querry
+- Fontawesome 5/6
+- SemanticUi React
 - Firebase JS SDK
 - React Router 
 - MaterialUI
 - Notistack
 
-### :open_file_folder: Currently working on 
+### :star: Awesome projects that I have done
 -  [Yummy](https://github.com/zzergy/Yummy) which is an app that lets you create cooking recipes.
-
-### :star: Other awesome projects
 - [Noted](https://github.com/zzergy/Noted) is a simple app that lets you store your thoughts (create notes!)
 - [Otaku FanArt](https://github.com/zzergy/Otaku-Fanart) I've created this site because im an artist and I like to share the fanart that I create with others!
 - [NightMode](https://github.com/zzergy/NightMode) It's just a simle animation that I wanted to try out.
