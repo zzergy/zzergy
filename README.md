@@ -5,7 +5,7 @@ My name is Bogdana and im located in :round_pushpin: Burgas, Bulgaria
 
 ### A little about me..
   I am a Junior Frontend Software Developer with 3 years of experience
-  I love drawing, music and all things creative like coding! :computer:
+  I love drawing, music and all things creative like coding!
 
   Currently I'm searching for remote job oportunities in the Front-end field! :tada::tada::tada:
 
