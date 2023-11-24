@@ -9,26 +9,18 @@ My name is Bogdana and im located in :round_pushpin: Burgas, Bulgaria
 
   Currently I'm searching for remote job oportunities in the Front-end field! :tada::tada::tada:
 
-### :computer: Programing languages that I know
- - React 
- - JavaSript
- - TypeScript
- - HTML5
- - CSS3
- - SASS
- - SCSS
- - Jest
+<details>
+<summary>🌱 Tech Stack</summary>
+ • React • JavaSript • TypeScript • HTML5 • CSS3 • SASS • SCSS • Jest • Redux / Redux Toolkit • Axios • React Querry • Fontawesome 5/6 • Firebase JS SDK • React Router • SemanticUi React • Bootstrap • Ant Design • MaterialUI • Notistack
+</details>
 
-### 🌱 Neat libraries that I'm using 
-- Axios
-- React Querry
-- Fontawesome 5/6
-- SemanticUi React
-- Firebase JS SDK
-- React Router 
-- MaterialUI
-- Notistack
+---
 
+### :sparkles: Currently working on :sparkles:
+- [PixelPerfect](https://github.com/zzergy/pixel-craft-studio) This will be something like Photoshop where you can create pixel art
+- [ProjectFlow Pro](https://github.com/zzergy/project-flow-pro) This is a colab with [Plamena](https://github.com/Plamena37) and we are making our own version of Jira Board
+
+---
 ### :star: Awesome projects that I have done
 -  [Yummy](https://github.com/zzergy/Yummy) which is an app that lets you create cooking recipes.
 - [Noted](https://github.com/zzergy/Noted) is a simple app that lets you store your thoughts (create notes!)
