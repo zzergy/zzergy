@@ -3,6 +3,7 @@ It seems that you have stumbled on my profile page  :octocat: (thank you for tha
 
 My name is Bogdana and im located in :round_pushpin: Burgas, Bulgaria
 
+### Portfolio https://zzergy.github.io/portfolio/
 ### A little about me..
   I am a Frontend Software Developer with 3 years of experience
   I love drawing, music and all things creative like coding!
