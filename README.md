@@ -18,7 +18,7 @@ My name is Bogdana and im located in :round_pushpin: Burgas, Bulgaria
 ---
 
 ### :sparkles: Currently working on :sparkles:
-- [PixelPerfect](https://github.com/zzergy/pixel-craft-studio) This will be something like Photoshop where you can create pixel art
+- [PixelCraft Studio](https://github.com/zzergy/pixel-craft-studio) This will be something like Photoshop where you can create pixel art
 - [ProjectFlow Pro](https://github.com/zzergy/project-flow-pro) This is a colab with [Plamena](https://github.com/Plamena37) and we are making our own version of Jira Board
 
 ---
